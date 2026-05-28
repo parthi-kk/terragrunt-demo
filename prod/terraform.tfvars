@@ -1,1 +1,1 @@
-bucket_name = "terragrunt-prod-001"
+bucket_name = "terragrunt-prod-demo-001"
