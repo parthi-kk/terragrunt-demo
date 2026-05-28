@@ -3,5 +3,5 @@ include {
 }
 
 terraform {
-  source = "../../terraform-classic/dev"
+   source = "../../dev"
 }
